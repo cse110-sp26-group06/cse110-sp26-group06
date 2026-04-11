@@ -11,9 +11,10 @@
 - 
 ---
 ### Aidan Fuller
-**Github:**
+**Github:** [aidanfuller9](https://github.com/aidanfuller9)
 
-- 
+- 3rd Year Computer Engineering Major
+- I enjoy cycling in my free time
 - 
 ---
 ### Christopher Rynhoud
