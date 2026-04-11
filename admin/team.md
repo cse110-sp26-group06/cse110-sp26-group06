@@ -1,4 +1,7 @@
-# Team Name
+# Team 06: Larpmaxxing
+
+<link rel="stylesheet" href="style.css"> <img src="./images/larpmaxxing.png" alt="Photo of Midevl Knights" height="300" width="400">
+
 ## Team Values
 - Communication
 - Respect
