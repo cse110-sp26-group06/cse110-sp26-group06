@@ -35,10 +35,10 @@
 - 
 ---
 ### Zayn Ashraf
-**Github:**
+**Github:** [zaynashraf](https://github.com/zaynashraf)
 
-- 
-- 
+- 3rd year Computer Science major
+- Curious and open minded
 ---
 ### Maxime Vergnet
 **Github:**
