@@ -5,7 +5,7 @@
 - Collaboration
 ## Team Members
 ### Sean Yang (Team Lead)
-**Github:** [sundared] (https://github.com/sundayred)
+**Github:** [sundayred](https://github.com/sundayred)
 
 - 3rd Year Computer Science Major
 - I enjoy napping in my free time
