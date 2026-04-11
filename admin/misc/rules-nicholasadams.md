@@ -67,4 +67,4 @@ Conflict resolution strategies:
 
 ## 7. Signature(individual)
 
-| Name | Date | Signature |
+| Nicholas Adams | 4/11/2026 | Nicholas Adams |
