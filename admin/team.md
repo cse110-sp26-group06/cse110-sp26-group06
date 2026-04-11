@@ -17,20 +17,14 @@
 - I enjoy cycling in my free time
 - 
 ---
-### Christopher Rynhoud
-**Github:**
+### Nicholas Adams 
+**Github:** [n3adams-stack](https://github.com/n3adams-stack)
 
-- 
-- 
+- 3rd Year Computer Science Major
+- I enjoy gymming, backpacking and gaming in my free time
 ---
-### Nicholas Adams
-**Github:**
-
-- 
-- 
----
-### Arpita Pandey
-**Github:**
+### Arpita Pandey 
+**Github:** [arpita-pandey](https://github.com/arpita-pandey)
 
 - 
 - 
@@ -41,29 +35,29 @@
 - 3rd year Computer Science major
 - Curious and open minded
 ---
-### Maxime Vergnet
-**Github:**
+### Maxime Vergnet 
+**Github:** [MaximeVergnet](https://github.com/MaximeVergnet)
 
-- 
-- 
+- 2nd year Computer Science major 
+- I enjoy surfing on my free time
 ---
-### Dishita Joshi
-**Github:**
+### Dishita Joshi 
+**Github:** [DishitaJoshi23](https://github.com/DishitaJoshi23)
 
-- 
-- 
+- 2nd year Computer Science major
+- I enjoy playing guitar on my free time
 ---
-### Ethan Tran
-**Github:**
+### Ethan Tran 
+**Github:** [chickenlittle5](https://github.com/chickenlittle5)
 
-- 
-- 
+- 3rd year Computer Science major
+- I enjoy playing pickel ball on my free time
 ---
-### Kevin Chung
-**Github:**
+### Kevin Chung 
+**Github:** [kpchung0407](https://github.com/kpchung0407)
 
-- 
-- 
+- 3rd year Computer Science major 
+- I enjoy playing chess on my free time
 ---
 ### Stephanie Chung
 **Github:** [schung06](https://github.com/schung06)
