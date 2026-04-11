@@ -7,11 +7,17 @@
 - Respect
 - Collaboration
 ## Team Members
-### Sean Yang (Team Lead)
+### Sean Yang (Team Lead 1)
 **Github:** [sundayred](https://github.com/sundayred)
 
 - 3rd Year Computer Science Major
 - I enjoy napping in my free time
+---
+### Zayn Ashraf (Team Lead 2)
+**Github:** [zaynashraf](https://github.com/zaynashraf)
+
+- 3rd year Computer Science major
+- Curious and open minded
 ---
 ### Aidan Fuller
 **Github:** [aidanfuller9](https://github.com/aidanfuller9)
@@ -31,12 +37,6 @@
 
 - 
 - 
----
-### Zayn Ashraf
-**Github:** [zaynashraf](https://github.com/zaynashraf)
-
-- 3rd year Computer Science major
-- Curious and open minded
 ---
 ### Maxime Vergnet 
 **Github:** [MaximeVergnet](https://github.com/MaximeVergnet)
