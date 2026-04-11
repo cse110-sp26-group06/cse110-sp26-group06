@@ -1,8 +1,11 @@
-# Team 6 Kickoff Meeting
-## Date:
-## Time:
-## Location:
+# Meeting Title
+## Date:  
+## Time:  
+## Location:  
 ## Attendees:
+## Pre-Meeting Notes:
+-   
+
 ## Agenda: 
 - Any new business to be discussed
 - Anything that was on the agenda but was not discussed (save for next meeting's old business)
