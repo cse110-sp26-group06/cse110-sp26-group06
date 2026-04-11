@@ -17,7 +17,7 @@
 **Github:** [zaynashraf](https://github.com/zaynashraf)
 
 - 3rd year Computer Science major
-- Curious and open minded
+- I enjoy walking in my free time 
 ---
 ### Aidan Fuller
 **Github:** [aidanfuller9](https://github.com/aidanfuller9)
