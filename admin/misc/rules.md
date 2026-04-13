@@ -27,7 +27,7 @@ Our team's purpose is to collaborate effectively to successfully complete CSE 11
 | ------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Team Lead          | Lead the team meetings, keep track of project deadlines, and track project progress | Sean Yang, Zayn Ashraf                                                |
 | Frontend Developer | In charge of client-side development                                                | Stephanie Chung, Dishita Joshi, Sean Yang, Kevin Chung                |
-| Backend Developer  | In charge of server-side development                                                | Ethan Tran, Aidan Fuller, Maxime Vergnet, Zayn Ashraf, Nicholas Adams |
+| Backend Developer  | In charge of server-side development                                                | Ethan Tran, Aidan Fuller, Maxime Vergnet, Zayn Ashraf, Nicholas Adams, Arpita Pandey |
 | Designer           | In charge of overall design                                                         | Stephanie Chung, Dishita Joshi                                        |
 | Note-Taker         | Take notes during meetings; write pre-meeting notes and agenda                      | Everyone(rotate every meeting)                                        |
 
