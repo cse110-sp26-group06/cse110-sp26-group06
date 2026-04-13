@@ -35,8 +35,8 @@
 ### Arpita Pandey 
 **Github:** [arpita-pandey](https://github.com/arpita-pandey)
 
-- 
-- 
+- 3rd Year Mathematics and Computer Science Major
+- I enjoy hiking, pilates, and hanging out with friends in my free time. 
 ---
 ### Maxime Vergnet 
 **Github:** [MaximeVergnet](https://github.com/MaximeVergnet)
