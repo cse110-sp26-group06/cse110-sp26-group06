@@ -16,7 +16,8 @@
 - Get research done by end of Sunday
 - Each person does one entry in ai-log
 ## Action items:
-- Arpita : two persona documents, 5 user stories
-- Zayn : AI plan
-- Sean and Kevin: 
-- Stephanie : wireframes
+- Arpita and Ethan : two persona documents, 5 user stories, types of users
+- Zayn and Nicholas : Gamification & engagement patterns
+- Sean and Kevin: Slot machine app features
+- Stephanie and Dishita : Visual themes
+- Maxime and Aidan : Jargon used
