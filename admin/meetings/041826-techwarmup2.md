@@ -1,17 +1,22 @@
-# Team 6 Kickoff Meeting
+# Tech Warmup 2 Kickoff Meeting Notes
 ## Date: 4/18/26
-## Time: 2:00 -  PM
+## Time: 2:00 - 2:20 PM
 ## Location: Zoom
-## Attendees: 
+## Attendees: Zayn, Kevin, Dishita, Arpita, Stephanie, Sean
 ## Pre-Meeting Notes:
 - Set up repository skeleton for Tech Warmup 2
 - Created Miro board for research steps
 
 ## Agenda: 
 1. Begin research for Tech Warmup 2
-2. Come up with a plan for AI use and assign tasks among group
-3. 
+2. Come up with a plan for AI use and assign research tasks among group
+
 ## Decisions made: 
-- 
+- Split off team into pairs to do different parts of research
+- Get research done by end of Sunday
+- Each person does one entry in ai-log
 ## Action items:
-- 
+- Arpita : two persona documents, 5 user stories
+- Zayn : AI plan
+- Sean and Kevin: 
+- Stephanie : wireframes
