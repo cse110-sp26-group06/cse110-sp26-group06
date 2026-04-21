@@ -1,5 +1,5 @@
 # Team 6 Kickoff Meeting
-## Date: 4/11/26
+## Date: 04/11/26
 ## Time: 2:00 - 4:30 PM
 ## Location: Geisel Library, Room 721
 ## Attendees: Zayn, Sean, Maxime, Kevin, Aidan, Dishita, Stephanie, Ethan, Nicholas (via Zoom)
