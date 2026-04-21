@@ -3,8 +3,8 @@
 ## Time: 12:30pm-1:00pm
 ## Location: Zoom
 ## Attendees: Audria (TA), Maxime, Aidan, Zayn, Kevin, Ethan, Arpita, Stephanie
-## Pre-Meeting Notes: Currently working on warmup 2
--   
+## Pre-Meeting Notes: 
+-   Currently working on warmup 2
 
 
 ## Warmup 2 discussion:
