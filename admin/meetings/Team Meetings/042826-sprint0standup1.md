@@ -12,7 +12,7 @@
 
 ## Decisions made: 
 - Tentative time for third stand-up is Friday 5-5:15 PM, subject to change depending on turnout
-- Will keep this weak light, individual research 
+- Will keep this week light, individual research 
 ## Action items:
 - Individual research
 - Create repo 
